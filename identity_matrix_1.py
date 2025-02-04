@@ -1,0 +1,6 @@
+# Write a NumPy program to create a 3x3 identity matrix, i.e. the diagonal elements are 1, the rest are 0.
+
+import numpy as np
+
+x=np.eye(3)
+print(x)
